@@ -110,10 +110,12 @@ web_modules/
 # Express.js uploaded files
 
 public/uploads/*
+!public/uploads/.gitkeep
 
 # Express.js build output
 
 public/build/*
+!public/build/.gitkeep
 
 # Next.js build output
 
